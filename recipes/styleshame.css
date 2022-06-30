@@ -1,0 +1,15 @@
+body {
+    background-image:url(/home/chanteloupes/repos/odin-recipes/pictures/shamefinal.png)
+}
+
+img {
+    padding-left: 600px;
+    padding-top: 450px;
+}
+
+p {
+    color:red;
+    font-weight: bolder;
+    padding-left: 620px;
+    padding-top: 100px;
+}

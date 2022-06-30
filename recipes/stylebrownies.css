@@ -1,0 +1,27 @@
+body {
+    background-color: #49332E;
+    color:beige;
+}
+
+a {
+    color:aqua;
+}
+
+h1, h2 {
+    font-weight: bolder;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+.intro {
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+}
+
+h2, ul, ol {
+    font-size: 20px;
+}
